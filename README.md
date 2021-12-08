@@ -24,3 +24,5 @@ Contributors: [Jordan](https://github.com/jordan-s99), [Darania](https://github.
 * Map individual album/artist/song art onto relevant components - perhaps through use of an external API. 
 * Connecting to an external API in order to play songs through our application. 
 * Use of library like React Transition Group to improve page transitions done through React Router. 
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/68692361/145226130-c6e05381-8723-4f9b-81d4-36579685df1b.gif)
+
