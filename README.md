@@ -3,6 +3,7 @@
 Contributors: [Jordan](https://github.com/jordan-s99), [Darania](https://github.com/DanaMurali), [Aaishah](https://github.com/aaisharif), and [Oliver](https://github.com/olivrrrrr).
 
 ## Project Information: ##
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/68692361/145226130-c6e05381-8723-4f9b-81d4-36579685df1b.gif)
 * Our task as a group was to build a frontend for a backend application built by another BNTA team, [Blue Chicken FM](https://github.com/zahir679/Project-API), using the React library, JavaScript, and CSS. 
 * This was done over the course of one week before presenting and doing a demo of our finished before colleagues and clients. 
 * The backend is a music API built in Java that features a database of artists, albums, and songs. It features key CRUD operations. 
@@ -24,5 +25,5 @@ Contributors: [Jordan](https://github.com/jordan-s99), [Darania](https://github.
 * Map individual album/artist/song art onto relevant components - perhaps through use of an external API. 
 * Connecting to an external API in order to play songs through our application. 
 * Use of library like React Transition Group to improve page transitions done through React Router. 
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/68692361/145226130-c6e05381-8723-4f9b-81d4-36579685df1b.gif)
+
 
